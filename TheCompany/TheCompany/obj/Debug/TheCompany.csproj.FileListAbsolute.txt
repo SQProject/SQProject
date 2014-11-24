@@ -1,0 +1,14 @@
+\\FS03D\Stu5\Home\Ssapra1-cc\Visual Studio 2013\Projects\TheCompany\TheCompany\obj\Debug\TheCompany.csprojResolveAssemblyReference.cache
+\\FS03D\Stu5\Home\Ssapra1-cc\Visual Studio 2013\Projects\TheCompany\TheCompany\bin\Debug\TheCompany.dll
+\\FS03D\Stu5\Home\Ssapra1-cc\Visual Studio 2013\Projects\TheCompany\TheCompany\bin\Debug\TheCompany.pdb
+\\FS03D\Stu5\Home\Ssapra1-cc\Visual Studio 2013\Projects\TheCompany\TheCompany\obj\Debug\TheCompany.dll
+\\FS03D\Stu5\Home\Ssapra1-cc\Visual Studio 2013\Projects\TheCompany\TheCompany\obj\Debug\TheCompany.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\bin\Debug\TheCompany.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\bin\Debug\TheCompany.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\obj\Debug\TheCompany.csprojResolveAssemblyReference.cache
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\obj\Debug\TheCompany.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\obj\Debug\TheCompany.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\bin\Debug\AllEmployess.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\bin\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\bin\Debug\AllEmployess.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\TheCompany\TheCompany\bin\Debug\Validation.pdb

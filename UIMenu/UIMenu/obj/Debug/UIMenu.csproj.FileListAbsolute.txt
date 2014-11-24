@@ -1,0 +1,12 @@
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\UIMenu.exe.config
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\UIMenu.exe
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\UIMenu.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\AllEmployess.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\AllEmployess.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\bin\Debug\Validation.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\obj\Debug\UIMenu.exe
+C:\Users\Xmeng-cc\Desktop\SQ_Project\UIMenu\UIMenu\obj\Debug\UIMenu.pdb
+C:\Users\Administrator\Desktop\1120\SQ_Project\UIMenu\UIMenu\bin\Debug\UIMenu.exe.config
+C:\Users\Administrator\Desktop\1120\SQ_Project\UIMenu\UIMenu\obj\Debug\UIMenu.exe
+C:\Users\Administrator\Desktop\1120\SQ_Project\UIMenu\UIMenu\obj\Debug\UIMenu.pdb

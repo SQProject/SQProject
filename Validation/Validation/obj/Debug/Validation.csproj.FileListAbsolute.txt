@@ -1,0 +1,15 @@
+C:\Users\Xmeng-cc\Desktop\Validation\Validation\bin\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\Validation\Validation\bin\Debug\Validation.pdb
+C:\Users\Xmeng-cc\Desktop\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Users\Xmeng-cc\Desktop\Validation\Validation\obj\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\Validation\Validation\obj\Debug\Validation.pdb
+E:\subjects\level 3\SQ\Validationtesting\Validationtesting\Validation\Validation\Validation\bin\Debug\Validation.dll
+E:\subjects\level 3\SQ\Validationtesting\Validationtesting\Validation\Validation\Validation\bin\Debug\Validation.pdb
+E:\subjects\level 3\SQ\Validationtesting\Validationtesting\Validation\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+E:\subjects\level 3\SQ\Validationtesting\Validationtesting\Validation\Validation\Validation\obj\Debug\Validation.dll
+E:\subjects\level 3\SQ\Validationtesting\Validationtesting\Validation\Validation\Validation\obj\Debug\Validation.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\Validation\Validation\bin\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\Validation\Validation\bin\Debug\Validation.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\Validation\Validation\obj\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\Validation\Validation\obj\Debug\Validation.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache

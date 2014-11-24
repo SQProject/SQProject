@@ -1,0 +1,12 @@
+E:\subjects\level 3\SQ\AllEmployess\AllEmployess\bin\Debug\AllEmployess.dll
+E:\subjects\level 3\SQ\AllEmployess\AllEmployess\bin\Debug\AllEmployess.pdb
+E:\subjects\level 3\SQ\AllEmployess\AllEmployess\obj\Debug\AllEmployess.csprojResolveAssemblyReference.cache
+E:\subjects\level 3\SQ\AllEmployess\AllEmployess\obj\Debug\AllEmployess.dll
+E:\subjects\level 3\SQ\AllEmployess\AllEmployess\obj\Debug\AllEmployess.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\bin\Debug\AllEmployess.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\bin\Debug\AllEmployess.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\bin\Debug\Validation.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\bin\Debug\Validation.pdb
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\obj\Debug\AllEmployess.csprojResolveAssemblyReference.cache
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\obj\Debug\AllEmployess.dll
+C:\Users\Xmeng-cc\Desktop\SQ_Project\AllEmployess\AllEmployess\obj\Debug\AllEmployess.pdb

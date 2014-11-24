@@ -1,0 +1,9 @@
+DateofBirth  and  SIN Of Contract Employee
+
+
+Details()  Output directly  or return  string.
+
+
+A validation for a valid employee before add a employee to a container.(For each  employee class).
+
+193-456-787
